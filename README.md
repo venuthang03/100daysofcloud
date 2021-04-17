@@ -1,12 +1,11 @@
 <p align="center">
-  <img src="banner.png">
+  <img src="">
 </p>
 
 ## The Challenge
 1. Read about the challenge and register at [#30DaysOfK8s.com](https://30DaysOfK8s.com)
 2. Use the [Micro](Templates/000-DAY-ARTICLE-MICRO-TEMPLATE.md), [Short](Templates/001-DAY-ARTICLE-SHORT-TEMPLATE.md) or [Long](Templates/002-DAY-ARTICLE-LONG-TEMPLATE.md) Day Journey Template and document your day-to-day progress.
-5. Update your main README to link back to your Day Journey article
-4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
+3. Update your main README to link back to your Day Journey article
 
 ## How to use this template:
 Fill in your details where you see this icon ✍️
